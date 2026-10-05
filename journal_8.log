@@ -6,3 +6,6 @@ tranche 8 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_AUTO_degrade_SEL_30_s7         fait en   8.1 min   [5/16]   écoulé  99.1 min
   mlp_FRAIS_degrade_SEL_30_s3        fait en   8.3 min   [6/16]   écoulé  99.8 min
   mlp_ANCRE_degrade_SEL_30_s11       fait en   8.2 min   [7/16]   écoulé 107.4 min
+  mlp_ANCRE_fixe_IMP_3_s7            fait en   8.4 min   [8/16]   écoulé 108.2 min
+  mlp_ANCRE_fixe_IMP_30_s3           fait en   8.3 min   [9/16]   écoulé 115.6 min
+  mlp_ANCRE_fixe_IMP_100_s11         fait en   8.2 min   [10/16]   écoulé 116.4 min
