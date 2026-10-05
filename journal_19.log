@@ -12,3 +12,11 @@ tranche 19 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_FRAIS_tourne_SEL_30_s10        fait en   7.0 min   [11/22]   écoulé  88.9 min
   mlp_ANCRE_tourne_SEL_30_s10        fait en   7.0 min   [12/22]   écoulé  89.0 min
   mlp_FIGE_degrade_SEL_30_s6         fait en   7.0 min   [13/22]   écoulé  89.7 min
+  mlp_ANCRE_degrade_SEL_30_s2        fait en   6.7 min   [14/22]   écoulé  95.6 min
+  mlp_ANCRE_fixe_IMP_1_s10           fait en   6.8 min   [15/22]   écoulé  95.9 min
+  mlp_ANCRE_fixe_IMP_10_s6           fait en   6.8 min   [16/22]   écoulé  96.4 min
+  mlp_ANCRE_fixe_IMP_100_s2          fait en   6.8 min   [17/22]   écoulé 102.3 min
+  mlp_ANCRE_fixe_IMP_300_s10         fait en   6.8 min   [18/22]   écoulé 102.7 min
+  mlp_ANCRE_fixe_SEL_1_s6            fait en   6.9 min   [19/22]   écoulé 103.3 min
+  mlp_ANCRE_fixe_DIF_30_s2           fait en   6.6 min   [20/22]   écoulé 109.0 min
+  mlp_ANCRE_fixe_DIF_1000_s10        fait en   6.7 min   [21/22]   écoulé 109.4 min
