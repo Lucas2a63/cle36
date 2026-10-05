@@ -3,3 +3,18 @@ tranche 12 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   cnn_ANCRE_fixe_IMP_1000_s7         fait en  60.1 min   [2/23]   écoulé  60.1 min
   cnn_ANCRE_fixe_SEL_1000_s11        fait en  60.2 min   [3/23]   écoulé  60.2 min
   cnn_ANCRE_fixe_SEL_30_s3           fait en  60.2 min   [4/23]   écoulé  60.2 min
+  mlp_AUTO_fixe_SEL_30_s3            fait en   5.2 min   [5/23]   écoulé  65.3 min
+  mlp_FRAIS_fixe_SEL_30_s3           fait en   5.5 min   [6/23]   écoulé  65.7 min
+  mlp_FIGE_fixe_SEL_30_s3            fait en   5.6 min   [7/23]   écoulé  65.8 min
+  mlp_ANCRE_fixe_SEL_30_s3           fait en   5.2 min   [8/23]   écoulé  70.5 min
+  mlp_AUTO_tourne_SEL_30_s3          fait en   5.3 min   [9/23]   écoulé  71.0 min
+  mlp_FIGE_tourne_SEL_30_s3          fait en   5.5 min   [10/23]   écoulé  71.3 min
+  mlp_FRAIS_tourne_SEL_30_s3         fait en   5.4 min   [11/23]   écoulé  75.8 min
+  mlp_ANCRE_tourne_SEL_30_s3         fait en   5.3 min   [12/23]   écoulé  76.2 min
+  mlp_AUTO_degrade_SEL_30_s11        fait en   5.0 min   [13/23]   écoulé  76.3 min
+  mlp_FRAIS_degrade_SEL_30_s7        fait en   5.4 min   [14/23]   écoulé  81.2 min
+  mlp_ANCRE_fixe_IMP_1_s3            fait en   5.3 min   [15/23]   écoulé  81.6 min
+  mlp_ANCRE_fixe_IMP_3_s11           fait en   5.3 min   [16/23]   écoulé  81.7 min
+  mlp_ANCRE_fixe_IMP_30_s7           fait en   5.3 min   [17/23]   écoulé  86.5 min
+  mlp_ANCRE_fixe_IMP_300_s3          fait en   5.3 min   [18/23]   écoulé  86.8 min
+  mlp_ANCRE_fixe_IMP_1000_s11        fait en   5.4 min   [19/23]   écoulé  87.1 min
