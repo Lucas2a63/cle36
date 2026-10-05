@@ -18,3 +18,7 @@ tranche 17 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_fixe_IMP_100_s0          fait en   6.5 min   [17/22]   écoulé  97.3 min
   mlp_ANCRE_fixe_IMP_300_s8          fait en   6.6 min   [18/22]   écoulé  97.6 min
   mlp_ANCRE_fixe_SEL_1_s4            fait en   6.6 min   [19/22]   écoulé  97.9 min
+  mlp_ANCRE_fixe_DIF_30_s0           fait en   6.6 min   [20/22]   écoulé 104.0 min
+  mlp_ANCRE_fixe_DIF_1000_s8         fait en   6.6 min   [21/22]   écoulé 104.2 min
+  cnn_FRAIS_fixe_SEL_30_s0           fait en  71.0 min   [22/22]   écoulé 134.6 min
+TRANCHE 17 TERMINÉE — 22 courses dans resultats/tranche_17.json
