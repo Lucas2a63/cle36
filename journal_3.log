@@ -13,3 +13,6 @@ tranche 3 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1_s10           fait en   8.4 min   [12/16]   écoulé 123.7 min
   mlp_ANCRE_fixe_DIF_30_s6           fait en   8.5 min   [13/16]   écoulé 131.3 min
   mlp_ANCRE_fixe_RAM_1000_s2         fait en   8.5 min   [14/16]   écoulé 132.2 min
+  cnn_ANCRE_fixe_DIF_1000_s10        fait en  93.3 min   [15/16]   écoulé 183.5 min
+  cnn_FRAIS_fixe_SEL_30_s6           fait en  93.5 min   [16/16]   écoulé 183.8 min
+TRANCHE 3 TERMINÉE — 16 courses dans resultats/tranche_3.json
