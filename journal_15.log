@@ -3,3 +3,9 @@ tranche 15 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   cnn_ANCRE_fixe_SEL_30_s6           fait en  67.7 min   [2/22]   écoulé  67.7 min
   cnn_ANCRE_fixe_DIF_1000_s2         fait en  67.7 min   [3/22]   écoulé  67.7 min
   cnn_ANCRE_fixe_IMP_30_s2           fait en  67.7 min   [4/22]   écoulé  67.7 min
+  mlp_AUTO_fixe_SEL_30_s6            fait en   6.8 min   [5/22]   écoulé  74.5 min
+  mlp_FRAIS_fixe_SEL_30_s6           fait en   7.1 min   [6/22]   écoulé  74.8 min
+  mlp_FIGE_fixe_SEL_30_s6            fait en   7.2 min   [7/22]   écoulé  74.9 min
+  mlp_ANCRE_fixe_SEL_30_s6           fait en   7.1 min   [8/22]   écoulé  81.5 min
+  mlp_AUTO_tourne_SEL_30_s6          fait en   7.1 min   [9/22]   écoulé  81.9 min
+  mlp_FIGE_tourne_SEL_30_s6          fait en   7.2 min   [10/22]   écoulé  82.1 min
