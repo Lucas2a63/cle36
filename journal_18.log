@@ -9,3 +9,6 @@ tranche 18 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_30_s9           fait en   7.0 min   [8/22]   écoulé  84.6 min
   mlp_AUTO_tourne_SEL_30_s9          fait en   7.0 min   [9/22]   écoulé  84.7 min
   mlp_FIGE_tourne_SEL_30_s9          fait en   7.3 min   [10/22]   écoulé  85.1 min
+  mlp_FRAIS_tourne_SEL_30_s9         fait en   7.0 min   [11/22]   écoulé  91.6 min
+  mlp_ANCRE_tourne_SEL_30_s9         fait en   7.0 min   [12/22]   écoulé  91.7 min
+  mlp_FIGE_degrade_SEL_30_s5         fait en   7.0 min   [13/22]   écoulé  92.1 min
