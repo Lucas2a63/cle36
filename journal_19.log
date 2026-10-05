@@ -20,3 +20,5 @@ tranche 19 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1_s6            fait en   6.9 min   [19/22]   écoulé 103.3 min
   mlp_ANCRE_fixe_DIF_30_s2           fait en   6.6 min   [20/22]   écoulé 109.0 min
   mlp_ANCRE_fixe_DIF_1000_s10        fait en   6.7 min   [21/22]   écoulé 109.4 min
+  cnn_FRAIS_fixe_SEL_30_s2           fait en  72.3 min   [22/22]   écoulé 140.5 min
+TRANCHE 19 TERMINÉE — 22 courses dans resultats/tranche_19.json
