@@ -6,3 +6,15 @@ tranche 17 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_AUTO_fixe_SEL_30_s8            fait en   6.5 min   [5/22]   écoulé  70.3 min
   mlp_FRAIS_fixe_SEL_30_s8           fait en   6.7 min   [6/22]   écoulé  70.6 min
   mlp_FIGE_fixe_SEL_30_s8            fait en   6.9 min   [7/22]   écoulé  70.7 min
+  mlp_ANCRE_fixe_SEL_30_s8           fait en   6.8 min   [8/22]   écoulé  77.0 min
+  mlp_AUTO_tourne_SEL_30_s8          fait en   6.8 min   [9/22]   écoulé  77.3 min
+  mlp_FIGE_tourne_SEL_30_s8          fait en   7.1 min   [10/22]   écoulé  77.8 min
+  mlp_FRAIS_tourne_SEL_30_s8         fait en   7.0 min   [11/22]   écoulé  84.0 min
+  mlp_ANCRE_tourne_SEL_30_s8         fait en   7.0 min   [12/22]   écoulé  84.3 min
+  mlp_FIGE_degrade_SEL_30_s4         fait en   6.9 min   [13/22]   écoulé  84.7 min
+  mlp_ANCRE_degrade_SEL_30_s0        fait en   6.8 min   [14/22]   écoulé  90.8 min
+  mlp_ANCRE_fixe_IMP_1_s8            fait en   6.6 min   [15/22]   écoulé  91.0 min
+  mlp_ANCRE_fixe_IMP_10_s4           fait en   6.6 min   [16/22]   écoulé  91.3 min
+  mlp_ANCRE_fixe_IMP_100_s0          fait en   6.5 min   [17/22]   écoulé  97.3 min
+  mlp_ANCRE_fixe_IMP_300_s8          fait en   6.6 min   [18/22]   écoulé  97.6 min
+  mlp_ANCRE_fixe_SEL_1_s4            fait en   6.6 min   [19/22]   écoulé  97.9 min
