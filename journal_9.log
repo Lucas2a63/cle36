@@ -10,3 +10,8 @@ tranche 9 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   mlp_AUTO_tourne_SEL_30_s0          fait en   5.9 min   [9/23]   écoulé  78.2 min
   mlp_FIGE_tourne_SEL_30_s0          fait en   6.2 min   [10/23]   écoulé  78.7 min
   mlp_FRAIS_tourne_SEL_30_s0         fait en   6.2 min   [11/23]   écoulé  84.0 min
+  mlp_ANCRE_tourne_SEL_30_s0         fait en   6.2 min   [12/23]   écoulé  84.5 min
+  mlp_AUTO_degrade_SEL_30_s8         fait en   5.8 min   [13/23]   écoulé  84.5 min
+  mlp_FRAIS_degrade_SEL_30_s4        fait en   6.2 min   [14/23]   écoulé  90.2 min
+  mlp_ANCRE_fixe_IMP_1_s0            fait en   6.1 min   [15/23]   écoulé  90.6 min
+  mlp_ANCRE_fixe_IMP_3_s8            fait en   6.2 min   [16/23]   écoulé  90.6 min
