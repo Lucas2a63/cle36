@@ -13,3 +13,6 @@ tranche 6 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1000_s1         fait en   5.2 min   [12/16]   écoulé  84.5 min
   mlp_ANCRE_fixe_DIF_30_s9           fait en   5.5 min   [13/16]   écoulé  89.9 min
   mlp_ANCRE_fixe_RAM_1000_s5         fait en   5.5 min   [14/16]   écoulé  90.0 min
+  cnn_AUTO_fixe_SEL_30_s1            fait en  65.0 min   [15/16]   écoulé 128.1 min
+  cnn_FRAIS_fixe_SEL_30_s9           fait en  65.3 min   [16/16]   écoulé 128.6 min
+TRANCHE 6 TERMINÉE — 16 courses dans resultats/tranche_6.json
