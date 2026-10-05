@@ -13,3 +13,6 @@ tranche 4 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1_s11           fait en   6.8 min   [12/16]   écoulé  95.8 min
   mlp_ANCRE_fixe_DIF_30_s7           fait en   6.9 min   [13/16]   écoulé 102.6 min
   mlp_ANCRE_fixe_RAM_1000_s3         fait en   6.9 min   [14/16]   écoulé 102.7 min
+  cnn_ANCRE_fixe_DIF_1000_s11        fait en  70.9 min   [15/16]   écoulé 138.6 min
+  cnn_FRAIS_fixe_SEL_30_s7           fait en  71.0 min   [16/16]   écoulé 138.8 min
+TRANCHE 4 TERMINÉE — 16 courses dans resultats/tranche_4.json
