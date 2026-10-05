@@ -15,3 +15,6 @@ tranche 18 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_degrade_SEL_30_s1        fait en   6.9 min   [14/22]   écoulé  98.6 min
   mlp_ANCRE_fixe_IMP_1_s9            fait en   6.9 min   [15/22]   écoulé  98.6 min
   mlp_ANCRE_fixe_IMP_10_s5           fait en   6.8 min   [16/22]   écoulé  98.9 min
+  mlp_ANCRE_fixe_IMP_100_s1          fait en   6.8 min   [17/22]   écoulé 105.3 min
+  mlp_ANCRE_fixe_IMP_300_s9          fait en   6.9 min   [18/22]   écoulé 105.6 min
+  mlp_ANCRE_fixe_SEL_1_s5            fait en   6.8 min   [19/22]   écoulé 105.7 min
