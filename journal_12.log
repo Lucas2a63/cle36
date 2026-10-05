@@ -18,3 +18,8 @@ tranche 12 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   mlp_ANCRE_fixe_IMP_30_s7           fait en   5.3 min   [17/23]   écoulé  86.5 min
   mlp_ANCRE_fixe_IMP_300_s3          fait en   5.3 min   [18/23]   écoulé  86.8 min
   mlp_ANCRE_fixe_IMP_1000_s11        fait en   5.4 min   [19/23]   écoulé  87.1 min
+  mlp_ANCRE_fixe_SEL_1000_s7         fait en   5.3 min   [20/23]   écoulé  91.8 min
+  mlp_ANCRE_fixe_DIF_1000_s3         fait en   5.3 min   [21/23]   écoulé  92.1 min
+  mlp_ANCRE_fixe_RAM_1000_s11        fait en   5.3 min   [22/23]   écoulé  92.3 min
+  cnn_AUTO_fixe_SEL_30_s7            fait en  66.2 min   [23/23]   écoulé 126.3 min
+TRANCHE 12 TERMINÉE — 23 courses dans resultats/tranche_12.json
