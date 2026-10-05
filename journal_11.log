@@ -12,3 +12,6 @@ tranche 11 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   mlp_FRAIS_tourne_SEL_30_s2         fait en   5.6 min   [11/23]   écoulé  80.4 min
   mlp_ANCRE_tourne_SEL_30_s2         fait en   5.4 min   [12/23]   écoulé  81.3 min
   mlp_AUTO_degrade_SEL_30_s10        fait en   5.3 min   [13/23]   écoulé  81.5 min
+  mlp_FRAIS_degrade_SEL_30_s6        fait en   5.4 min   [14/23]   écoulé  85.8 min
+  mlp_ANCRE_fixe_IMP_1_s2            fait en   5.4 min   [15/23]   écoulé  86.7 min
+  mlp_ANCRE_fixe_IMP_3_s10           fait en   5.4 min   [16/23]   écoulé  86.9 min
