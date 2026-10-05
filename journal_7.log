@@ -5,3 +5,11 @@ tranche 7 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   cnn_ANCRE_fixe_SEL_1000_s6         fait en  66.0 min   [4/16]   écoulé  66.0 min
   mlp_AUTO_degrade_SEL_30_s6         fait en   5.0 min   [5/16]   écoulé  71.0 min
   mlp_FRAIS_degrade_SEL_30_s2        fait en   5.2 min   [6/16]   écoulé  71.2 min
+  mlp_ANCRE_degrade_SEL_30_s10       fait en   6.1 min   [7/16]   écoulé  77.1 min
+  mlp_ANCRE_fixe_IMP_3_s6            fait en   6.1 min   [8/16]   écoulé  77.3 min
+  mlp_ANCRE_fixe_IMP_30_s2           fait en   5.1 min   [9/16]   écoulé  82.2 min
+  mlp_ANCRE_fixe_IMP_100_s10         fait en   5.1 min   [10/16]   écoulé  82.4 min
+  mlp_ANCRE_fixe_IMP_1000_s6         fait en   4.8 min   [11/16]   écoulé  87.0 min
+  mlp_ANCRE_fixe_SEL_1000_s2         fait en   4.8 min   [12/16]   écoulé  87.2 min
+  mlp_ANCRE_fixe_DIF_30_s10          fait en   4.8 min   [13/16]   écoulé  91.8 min
+  mlp_ANCRE_fixe_RAM_1000_s6         fait en   4.8 min   [14/16]   écoulé  91.9 min
