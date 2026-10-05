@@ -3,3 +3,15 @@ tranche 13 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   cnn_ANCRE_fixe_DIF_1000_s0         fait en  69.9 min   [2/22]   écoulé  69.9 min
   cnn_ANCRE_fixe_SEL_30_s4           fait en  69.9 min   [3/22]   écoulé  69.9 min
   cnn_ANCRE_fixe_IMP_1000_s8         fait en  69.9 min   [4/22]   écoulé  69.9 min
+  mlp_AUTO_fixe_SEL_30_s4            fait en   7.0 min   [5/22]   écoulé  76.9 min
+  mlp_FRAIS_fixe_SEL_30_s4           fait en   7.2 min   [6/22]   écoulé  77.1 min
+  mlp_FIGE_fixe_SEL_30_s4            fait en   7.4 min   [7/22]   écoulé  77.3 min
+  mlp_ANCRE_fixe_SEL_30_s4           fait en   7.1 min   [8/22]   écoulé  84.0 min
+  mlp_AUTO_tourne_SEL_30_s4          fait en   7.2 min   [9/22]   écoulé  84.4 min
+  mlp_FIGE_tourne_SEL_30_s4          fait en   7.5 min   [10/22]   écoulé  84.8 min
+  mlp_FRAIS_tourne_SEL_30_s4         fait en   7.4 min   [11/22]   écoulé  91.4 min
+  mlp_ANCRE_tourne_SEL_30_s4         fait en   7.3 min   [12/22]   écoulé  91.7 min
+  mlp_FIGE_degrade_SEL_30_s0         fait en   7.3 min   [13/22]   écoulé  92.1 min
+  mlp_FRAIS_degrade_SEL_30_s8        fait en   7.3 min   [14/22]   écoulé  98.7 min
+  mlp_ANCRE_fixe_IMP_1_s4            fait en   7.2 min   [15/22]   écoulé  98.9 min
+  mlp_ANCRE_fixe_IMP_10_s0           fait en   7.1 min   [16/22]   écoulé  99.2 min
