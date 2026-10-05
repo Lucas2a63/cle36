@@ -3,3 +3,6 @@ tranche 18 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   cnn_ANCRE_fixe_IMP_30_s5           fait en  70.0 min   [2/22]   écoulé  70.0 min
   cnn_ANCRE_fixe_DIF_1000_s5         fait en  70.0 min   [3/22]   écoulé  70.0 min
   cnn_ANCRE_fixe_SEL_30_s9           fait en  70.0 min   [4/22]   écoulé  70.0 min
+  mlp_AUTO_fixe_SEL_30_s9            fait en   7.6 min   [5/22]   écoulé  77.7 min
+  mlp_FRAIS_fixe_SEL_30_s9           fait en   7.7 min   [6/22]   écoulé  77.7 min
+  mlp_FIGE_fixe_SEL_30_s9            fait en   7.7 min   [7/22]   écoulé  77.7 min
