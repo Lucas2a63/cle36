@@ -1,0 +1,3214 @@
+{
+"cle": 36,
+"courses": 396,
+"tranches": {
+"1": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 0
+}
+],
+"2": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 1
+}
+],
+"3": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 2
+}
+],
+"4": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 3
+}
+],
+"5": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 4
+}
+],
+"6": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 5
+}
+],
+"7": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 6
+}
+],
+"8": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 7
+}
+],
+"9": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 8
+}
+],
+"10": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 9
+}
+],
+"11": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 10
+}
+],
+"12": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 3,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "RAM",
+"c": 1000,
+"seed": 11
+}
+],
+"13": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 4
+}
+],
+"14": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 5
+}
+],
+"15": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 6
+}
+],
+"16": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1000,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1000,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 7
+}
+],
+"17": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 0
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 4
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 8
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 4
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 0
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 8
+}
+],
+"18": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 1
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 5
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 9
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 5
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 1
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 9
+}
+],
+"19": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 2
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 6
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 10
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 6
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 2
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 10
+}
+],
+"20": [
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 3
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "cnn",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 7
+},
+{
+"arch": "cnn",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "AUTO",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "FRAIS",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "tourne",
+"valeur": "SEL",
+"c": 30,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "FIGE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "degrade",
+"valeur": "SEL",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 1,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 10,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 100,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "IMP",
+"c": 300,
+"seed": 11
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "SEL",
+"c": 1,
+"seed": 7
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 30,
+"seed": 3
+},
+{
+"arch": "mlp",
+"regime": "ANCRE",
+"monde": "fixe",
+"valeur": "DIF",
+"c": 1000,
+"seed": 11
+}
+]
+}
+}
