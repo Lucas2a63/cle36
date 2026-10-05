@@ -14,3 +14,5 @@ tranche 5 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_ANCRE_fixe_DIF_30_s8           fait en   5.5 min   [13/16]   écoulé  87.4 min
   mlp_ANCRE_fixe_RAM_1000_s4         fait en   5.6 min   [14/16]   écoulé  87.6 min
   cnn_AUTO_fixe_SEL_30_s0            fait en  62.1 min   [15/16]   écoulé 121.6 min
+  cnn_FRAIS_fixe_SEL_30_s8           fait en  62.5 min   [16/16]   écoulé 122.1 min
+TRANCHE 5 TERMINÉE — 16 courses dans resultats/tranche_5.json
