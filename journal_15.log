@@ -12,3 +12,6 @@ tranche 15 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_FRAIS_tourne_SEL_30_s6         fait en   7.1 min   [11/22]   écoulé  88.6 min
   mlp_ANCRE_tourne_SEL_30_s6         fait en   7.1 min   [12/22]   écoulé  89.0 min
   mlp_FIGE_degrade_SEL_30_s2         fait en   7.1 min   [13/22]   écoulé  89.2 min
+  mlp_FRAIS_degrade_SEL_30_s10       fait en   6.9 min   [14/22]   écoulé  95.5 min
+  mlp_ANCRE_fixe_IMP_1_s6            fait en   6.8 min   [15/22]   écoulé  95.8 min
+  mlp_ANCRE_fixe_IMP_10_s2           fait en   6.8 min   [16/22]   écoulé  96.0 min
