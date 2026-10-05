@@ -20,3 +20,5 @@ tranche 13 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1_s0            fait en   7.0 min   [19/22]   écoulé 106.3 min
   mlp_ANCRE_fixe_SEL_1000_s8         fait en   6.9 min   [20/22]   écoulé 112.5 min
   mlp_ANCRE_fixe_DIF_1000_s4         fait en   7.0 min   [21/22]   écoulé 112.9 min
+  cnn_AUTO_fixe_SEL_30_s8            fait en  75.4 min   [22/22]   écoulé 145.2 min
+TRANCHE 13 TERMINÉE — 22 courses dans resultats/tranche_13.json
