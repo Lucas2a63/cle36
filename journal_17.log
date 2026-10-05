@@ -1,0 +1,8 @@
+tranche 17 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
+  cnn_ANCRE_fixe_DIF_1000_s4         fait en  63.7 min   [1/22]   écoulé  63.7 min
+  cnn_ANCRE_fixe_SEL_1_s0            fait en  63.7 min   [2/22]   écoulé  63.7 min
+  cnn_ANCRE_fixe_SEL_30_s8           fait en  63.8 min   [3/22]   écoulé  63.8 min
+  cnn_ANCRE_fixe_IMP_30_s4           fait en  63.8 min   [4/22]   écoulé  63.8 min
+  mlp_AUTO_fixe_SEL_30_s8            fait en   6.5 min   [5/22]   écoulé  70.3 min
+  mlp_FRAIS_fixe_SEL_30_s8           fait en   6.7 min   [6/22]   écoulé  70.6 min
+  mlp_FIGE_fixe_SEL_30_s8            fait en   6.9 min   [7/22]   écoulé  70.7 min
