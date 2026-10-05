@@ -13,3 +13,5 @@ tranche 10 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   mlp_AUTO_degrade_SEL_30_s9         fait en   4.3 min   [12/23]   écoulé  68.1 min
   mlp_ANCRE_tourne_SEL_30_s1         fait en   4.6 min   [13/23]   écoulé  68.2 min
   mlp_FRAIS_degrade_SEL_30_s5        fait en   4.5 min   [14/23]   écoulé  72.2 min
+  mlp_ANCRE_fixe_IMP_1_s1            fait en   4.5 min   [15/23]   écoulé  72.6 min
+  mlp_ANCRE_fixe_IMP_3_s9            fait en   4.5 min   [16/23]   écoulé  72.6 min
