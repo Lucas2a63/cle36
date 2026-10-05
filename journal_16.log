@@ -5,3 +5,6 @@ tranche 16 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   cnn_ANCRE_fixe_IMP_30_s3           fait en  54.0 min   [4/22]   écoulé  54.0 min
   mlp_AUTO_fixe_SEL_30_s7            fait en   4.4 min   [5/22]   écoulé  58.1 min
   mlp_FRAIS_fixe_SEL_30_s7           fait en   4.5 min   [6/22]   écoulé  58.6 min
+  mlp_FIGE_fixe_SEL_30_s7            fait en   4.7 min   [7/22]   écoulé  58.7 min
+  mlp_ANCRE_fixe_SEL_30_s7           fait en   4.3 min   [8/22]   écoulé  62.4 min
+  mlp_AUTO_tourne_SEL_30_s7          fait en   4.5 min   [9/22]   écoulé  63.0 min
