@@ -3,3 +3,12 @@ tranche 19 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   cnn_ANCRE_fixe_SEL_30_s10          fait en  68.3 min   [2/22]   écoulé  68.3 min
   cnn_ANCRE_fixe_SEL_1_s2            fait en  68.3 min   [3/22]   écoulé  68.3 min
   cnn_ANCRE_fixe_DIF_1000_s6         fait en  68.3 min   [4/22]   écoulé  68.3 min
+  mlp_AUTO_fixe_SEL_30_s10           fait en   6.8 min   [5/22]   écoulé  75.1 min
+  mlp_FRAIS_fixe_SEL_30_s10          fait en   6.9 min   [6/22]   écoulé  75.2 min
+  mlp_FIGE_fixe_SEL_30_s10           fait en   7.1 min   [7/22]   écoulé  75.4 min
+  mlp_ANCRE_fixe_SEL_30_s10          fait en   6.8 min   [8/22]   écoulé  81.8 min
+  mlp_AUTO_tourne_SEL_30_s10         fait en   6.9 min   [9/22]   écoulé  82.1 min
+  mlp_FIGE_tourne_SEL_30_s10         fait en   7.2 min   [10/22]   écoulé  82.7 min
+  mlp_FRAIS_tourne_SEL_30_s10        fait en   7.0 min   [11/22]   écoulé  88.9 min
+  mlp_ANCRE_tourne_SEL_30_s10        fait en   7.0 min   [12/22]   écoulé  89.0 min
+  mlp_FIGE_degrade_SEL_30_s6         fait en   7.0 min   [13/22]   écoulé  89.7 min
