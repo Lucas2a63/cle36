@@ -4,3 +4,5 @@ tranche 10 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   cnn_ANCRE_fixe_IMP_1000_s5         fait en  54.6 min   [3/23]   écoulé  54.6 min
   cnn_ANCRE_fixe_SEL_1000_s9         fait en  54.6 min   [4/23]   écoulé  54.6 min
   mlp_AUTO_fixe_SEL_30_s1            fait en   4.2 min   [5/23]   écoulé  58.7 min
+  mlp_FIGE_fixe_SEL_30_s1            fait en   4.5 min   [6/23]   écoulé  59.0 min
+  mlp_FRAIS_fixe_SEL_30_s1           fait en   4.5 min   [7/23]   écoulé  59.0 min
