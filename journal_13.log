@@ -15,3 +15,8 @@ tranche 13 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_FRAIS_degrade_SEL_30_s8        fait en   7.3 min   [14/22]   écoulé  98.7 min
   mlp_ANCRE_fixe_IMP_1_s4            fait en   7.2 min   [15/22]   écoulé  98.9 min
   mlp_ANCRE_fixe_IMP_10_s0           fait en   7.1 min   [16/22]   écoulé  99.2 min
+  mlp_ANCRE_fixe_IMP_30_s8           fait en   6.9 min   [17/22]   écoulé 105.6 min
+  mlp_ANCRE_fixe_IMP_300_s4          fait en   7.1 min   [18/22]   écoulé 106.0 min
+  mlp_ANCRE_fixe_SEL_1_s0            fait en   7.0 min   [19/22]   écoulé 106.3 min
+  mlp_ANCRE_fixe_SEL_1000_s8         fait en   6.9 min   [20/22]   écoulé 112.5 min
+  mlp_ANCRE_fixe_DIF_1000_s4         fait en   7.0 min   [21/22]   écoulé 112.9 min
