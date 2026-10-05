@@ -12,3 +12,7 @@ tranche 8 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_ANCRE_fixe_IMP_1000_s7         fait en   8.4 min   [11/16]   écoulé 124.0 min
   mlp_ANCRE_fixe_SEL_1000_s3         fait en   8.2 min   [12/16]   écoulé 124.5 min
   mlp_ANCRE_fixe_DIF_30_s11          fait en   8.1 min   [13/16]   écoulé 132.2 min
+  mlp_ANCRE_fixe_RAM_1000_s7         fait en   8.1 min   [14/16]   écoulé 132.6 min
+  cnn_FRAIS_fixe_SEL_30_s11          fait en  93.7 min   [15/16]   écoulé 184.7 min
+  cnn_AUTO_fixe_SEL_30_s3            fait en  93.8 min   [16/16]   écoulé 184.7 min
+TRANCHE 8 TERMINÉE — 16 courses dans resultats/tranche_8.json
