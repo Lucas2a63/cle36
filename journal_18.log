@@ -20,3 +20,5 @@ tranche 18 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1_s5            fait en   6.8 min   [19/22]   écoulé 105.7 min
   mlp_ANCRE_fixe_DIF_30_s1           fait en   6.8 min   [20/22]   écoulé 112.2 min
   mlp_ANCRE_fixe_DIF_1000_s9         fait en   6.8 min   [21/22]   écoulé 112.3 min
+  cnn_FRAIS_fixe_SEL_30_s1           fait en  77.2 min   [22/22]   écoulé 147.1 min
+TRANCHE 18 TERMINÉE — 22 courses dans resultats/tranche_18.json
