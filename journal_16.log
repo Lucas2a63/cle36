@@ -19,3 +19,6 @@ tranche 16 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_ANCRE_fixe_IMP_300_s7          fait en   4.7 min   [18/22]   écoulé  77.1 min
   mlp_ANCRE_fixe_SEL_1_s3            fait en   4.7 min   [19/22]   écoulé  77.3 min
   mlp_ANCRE_fixe_SEL_1000_s11        fait en   4.5 min   [20/22]   écoulé  80.7 min
+  mlp_ANCRE_fixe_DIF_1000_s7         fait en   4.6 min   [21/22]   écoulé  81.7 min
+  cnn_AUTO_fixe_SEL_30_s11           fait en  59.1 min   [22/22]   écoulé 112.7 min
+TRANCHE 16 TERMINÉE — 22 courses dans resultats/tranche_16.json
