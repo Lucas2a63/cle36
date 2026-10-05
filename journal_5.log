@@ -9,3 +9,6 @@ tranche 5 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   mlp_ANCRE_fixe_IMP_3_s4            fait en   5.4 min   [8/16]   écoulé  71.0 min
   mlp_ANCRE_fixe_IMP_30_s0           fait en   5.5 min   [9/16]   écoulé  76.1 min
   mlp_ANCRE_fixe_IMP_100_s8          fait en   5.4 min   [10/16]   écoulé  76.4 min
+  mlp_ANCRE_fixe_IMP_1000_s4         fait en   5.8 min   [11/16]   écoulé  81.9 min
+  mlp_ANCRE_fixe_SEL_1000_s0         fait en   5.6 min   [12/16]   écoulé  82.0 min
+  mlp_ANCRE_fixe_DIF_30_s8           fait en   5.5 min   [13/16]   écoulé  87.4 min
