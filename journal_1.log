@@ -3,3 +3,7 @@ tranche 1 : 16 courses, 0 déjà faites, 16 à faire, sur 4 processus
   cnn_ANCRE_fixe_IMP_1_s0            fait en  55.2 min   [2/16]   écoulé  55.2 min
   cnn_ANCRE_fixe_IMP_30_s8           fait en  55.2 min   [3/16]   écoulé  55.2 min
   cnn_ANCRE_fixe_SEL_1_s4            fait en  55.2 min   [4/16]   écoulé  55.2 min
+  mlp_AUTO_degrade_SEL_30_s0         fait en   4.3 min   [5/16]   écoulé  59.5 min
+  mlp_FIGE_degrade_SEL_30_s8         fait en   4.5 min   [6/16]   écoulé  59.8 min
+  mlp_ANCRE_degrade_SEL_30_s4        fait en   4.4 min   [7/16]   écoulé  63.9 min
+  mlp_ANCRE_fixe_IMP_3_s0            fait en   4.4 min   [8/16]   écoulé  64.2 min
