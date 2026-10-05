@@ -8,3 +8,5 @@ tranche 16 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_FIGE_fixe_SEL_30_s7            fait en   4.7 min   [7/22]   écoulé  58.7 min
   mlp_ANCRE_fixe_SEL_30_s7           fait en   4.3 min   [8/22]   écoulé  62.4 min
   mlp_AUTO_tourne_SEL_30_s7          fait en   4.5 min   [9/22]   écoulé  63.0 min
+  mlp_FIGE_tourne_SEL_30_s7          fait en   4.7 min   [10/22]   écoulé  63.3 min
+  mlp_FRAIS_tourne_SEL_30_s7         fait en   4.6 min   [11/22]   écoulé  67.0 min
