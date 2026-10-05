@@ -21,3 +21,5 @@ tranche 10 : 23 courses, 0 déjà faites, 23 à faire, sur 4 processus
   mlp_ANCRE_fixe_SEL_1000_s5         fait en   4.2 min   [20/23]   écoulé  80.7 min
   mlp_ANCRE_fixe_DIF_1000_s1         fait en   4.3 min   [21/23]   écoulé  81.2 min
   mlp_ANCRE_fixe_RAM_1000_s9         fait en   4.2 min   [22/23]   écoulé  81.2 min
+  cnn_AUTO_fixe_SEL_30_s5            fait en  58.0 min   [23/23]   écoulé 112.4 min
+TRANCHE 10 TERMINÉE — 23 courses dans resultats/tranche_10.json
