@@ -15,3 +15,10 @@ tranche 14 : 22 courses, 0 déjà faites, 22 à faire, sur 4 processus
   mlp_FRAIS_degrade_SEL_30_s9        fait en   7.4 min   [14/22]   écoulé  99.2 min
   mlp_ANCRE_fixe_IMP_1_s5            fait en   7.3 min   [15/22]   écoulé  99.4 min
   mlp_ANCRE_fixe_IMP_10_s1           fait en   7.3 min   [16/22]   écoulé  99.7 min
+  mlp_ANCRE_fixe_IMP_30_s9           fait en   7.2 min   [17/22]   écoulé 106.5 min
+  mlp_ANCRE_fixe_IMP_300_s5          fait en   7.3 min   [18/22]   écoulé 106.7 min
+  mlp_ANCRE_fixe_SEL_1_s1            fait en   7.4 min   [19/22]   écoulé 107.1 min
+  mlp_ANCRE_fixe_SEL_1000_s9         fait en   7.1 min   [20/22]   écoulé 113.5 min
+  mlp_ANCRE_fixe_DIF_1000_s5         fait en   7.2 min   [21/22]   écoulé 113.9 min
+  cnn_AUTO_fixe_SEL_30_s9            fait en  80.1 min   [22/22]   écoulé 149.7 min
+TRANCHE 14 TERMINÉE — 22 courses dans resultats/tranche_14.json
